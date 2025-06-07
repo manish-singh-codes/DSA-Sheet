@@ -7,8 +7,6 @@
 // 4) Aur jab window size achieve ho jaaye tab calculation me se ans nikalenge, and then start and end ++ kar denge.
 
 
-
-
     int countGoodSubstrings(string s) {
         int left = 0;
         int right = 0;
